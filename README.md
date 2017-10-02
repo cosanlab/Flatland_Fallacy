@@ -2,9 +2,7 @@
 
 *"The Flatland Fallacy: Moving Beyond Low Dimensional Thinking"*  
 
-Project repository for this manuscript. Relevant files include code used to generate figures, along with static versions of submitted manuscript files, and points for working manuscript drafts under google docs version control.
-
-
+Project repository for this manuscript. Relevant files include code used to generate figures along with static versions of submitted manuscript files.
 
 
 
